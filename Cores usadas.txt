@@ -1,0 +1,4 @@
+Cores usadas
+
+Fundo: #CC2A41
+Letra: #E8CAA4
