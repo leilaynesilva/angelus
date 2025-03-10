@@ -38,5 +38,5 @@ O site pode ser visualizado através do **GitHub Pages** ou outra plataforma de 
 
 Caso queira saber mais sobre a **Angelus Presentes**, entre em contato:
 
-- **Email**: email@example.com  
+- **Email**: rosangelanaturals@gmail.com
 - **Instagram**: [Angelus Presentes](https://www.instagram.com/angeluspresentes) 
