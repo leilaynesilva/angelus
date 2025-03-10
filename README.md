@@ -1,35 +1,42 @@
-Angelus Presentes
+# Angelus Presentes
 
-Finalidade do Projeto
+## Finalidade do Projeto
 
-Este repositório contém o código-fonte do site da Angelus Presentes, uma loja especializada na venda de cestas, cosméticos e perfumes. O objetivo do site é apresentar os produtos da loja de forma atrativa, facilitar o contato com clientes e expandir a presença digital do negócio.
+Este repositório contém o código-fonte do site da **Angelus Presentes**, uma loja especializada na venda de cestas, cosméticos e perfumes. O objetivo do site é:
 
-Inicialmente, o projeto está sendo desenvolvido utilizando HTML e CSS, garantindo uma estrutura sólida e um design harmonioso. Futuramente, serão incorporadas novas tecnologias para aprimorar a experiência do usuário e adicionar funcionalidades interativas.
+- Apresentar os produtos da loja de forma atrativa.
+- Facilitar o contato com clientes.
+- Expandir a presença digital do negócio.
 
-Tecnologias Utilizadas
+Inicialmente, o projeto está sendo desenvolvido utilizando **HTML** e **CSS**, garantindo uma estrutura sólida e um design harmonioso. Futuramente, serão incorporadas novas tecnologias para aprimorar a experiência do usuário e adicionar funcionalidades interativas.
 
-HTML: Para a estruturação do conteúdo do site.
+---
 
-CSS: Para a estilização e identidade visual.
+## Tecnologias Utilizadas
 
-Futuras Implementações
+- **HTML**: Para a estruturação do conteúdo do site.
+- **CSS**: Para a estilização e identidade visual.
 
-JavaScript: Para adicionar interatividade ao site.
+---
 
-Frameworks CSS: Como Bootstrap ou Tailwind para otimizar o design responsivo.
+## Futuras Implementações
 
-Plataforma de E-commerce: Possível integração com sistemas de venda online.
+- **JavaScript**: Para adicionar interatividade ao site.
+- **Frameworks CSS**: Como Bootstrap ou Tailwind para otimizar o design responsivo.
+- **Plataforma de E-commerce**: Possível integração com sistemas de venda online.
+- **Versionamento**: Uso do Git e GitHub para controle de versão.
 
-Versionamento: Uso do Git e GitHub para controle de versão.
+---
 
-Como Visualizar o Projeto
+## Como Visualizar o Projeto
 
-O site pode ser visualizado através do GitHub Pages ou outra plataforma de hospedagem. O projeto estará em constante evolução, com melhorias e novas funcionalidades sendo implementadas ao longo do tempo.
+O site pode ser visualizado através do **GitHub Pages** ou outra plataforma de hospedagem. O projeto estará em constante evolução, com melhorias e novas funcionalidades sendo implementadas ao longo do tempo.
 
-Contato
+---
 
-Caso queira saber mais sobre a Angelus Presentes, entre em contato:
+## Contato
 
-Email: [rosangelanaturals@gmail.com]
+Caso queira saber mais sobre a **Angelus Presentes**, entre em contato:
 
-Instagram: [https://www.instagram.com/angelus.presentes]
+- **Email**: email@example.com  
+- **Instagram**: [Angelus Presentes](https://www.instagram.com/angeluspresentes) 
