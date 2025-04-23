@@ -1,0 +1,95 @@
+* {
+    margin: 0; /* Remove a margem padrão de todos os elementos */
+    padding: 0; /* Remove o preenchimento padrão de todos os elementos */
+    box-sizing: border-box; /* Inclui padding e borda no cálculo da largura e altura dos elementos */
+    font-family: "Albert Sans", sans-serif; /* Define a fonte padrão para todos os elementos */
+}
+
+body {
+    width: 80%; /* Define a largura do corpo da página como 80% da largura da janela */
+    margin: auto; /* Centraliza o corpo da página horizontalmente */
+}
+
+.navbar {
+    display: flex; /* Usa flexbox para organizar os itens da barra de navegação em linha */
+    align-items: center; /* Alinha os itens verticalmente ao centro */
+    justify-content: space-between; /* Distribui os itens com espaço igual entre eles */
+    padding: 25px 0; /* Adiciona espaço acima e abaixo da barra de navegação */
+}
+
+.navbar .logo {
+    margin: 10px; /* Adiciona margem ao redor do logo */
+    width: 250px; /* Define a largura do logo */
+    height: 50px; /* Define a altura do logo */
+}
+
+.navbar .logo img {
+    width: 100%; /* Faz a imagem ocupar 100% da largura do contêiner do logo */
+    height: 100%; /* Faz a imagem ocupar 100% da altura do contêiner do logo */
+    border-radius: 8px; /* Adiciona bordas arredondadas à imagem do logo */
+}
+
+.navbar .links {
+    list-style: none; /* Remove os marcadores da lista de links */
+    display: flex; /* Usa flexbox para organizar os links em linha */
+}
+
+.navbar .links .icon {
+    margin: 10px; /* Adiciona margem ao redor de cada ícone de link */
+}
+
+.navbar .links .icon a {
+    font-size: 20px; /* Define o tamanho da fonte dos links */
+    background: #CC2A41; /* Define a cor de fundo dos links */
+    padding: 10px; /* Adiciona preenchimento ao redor do texto do link */
+    text-align: center; /* Centraliza o texto dentro do link */
+    border-radius: 8px; /* Adiciona bordas arredondadas aos links */
+    text-decoration: none; /* Remove o sublinhado dos links */
+    color: #E8CAA4; /* Define a cor do texto dos links */
+    transition: background 0.2s; /* Adiciona uma transição suave para a mudança de cor de fundo */
+}
+
+.navbar .links .icon a:hover {
+    background: #FDFEFE; /* Muda a cor de fundo do link ao passar o mouse sobre ele */
+}
+
+.container {
+    padding: 0; /* Remove o preenchimento do contêiner principal */
+    display: flex; /* Usa flexbox para organizar os itens dentro do contêiner */
+    align-items: center; /* Alinha os itens verticalmente ao centro */
+    height: 100%; /* Define a altura do contêiner como 100% do seu elemento pai */
+}
+
+.container .text {
+    padding: 1px; /* Adiciona um pequeno preenchimento ao redor do texto */
+    width: 50%; /* Define a largura da seção de texto como 50% do contêiner */
+    margin: auto; /* Centraliza a seção de texto horizontalmente */
+}
+
+.container .text h1 {
+    color: #CC2A41; /* Define a cor do texto do título */
+    font-size: 30px; /* Define o tamanho da fonte do título */
+}
+
+.container .text p {
+    width: 85%; /* Define a largura dos parágrafos como 85% do contêiner */
+    color: #CC2A41; /* Define a cor do texto dos parágrafos */
+    font-size: 18px; /* Define o tamanho da fonte dos parágrafos */
+    text-align: justify; /* Justifica o texto dos parágrafos */
+    margin: 25px 0; /* Adiciona margem acima e abaixo dos parágrafos */
+}
+
+.container .text button {
+    padding: 15px 15px; /* Adiciona preenchimento ao redor do texto do botão */
+    font-size: 15px; /* Define o tamanho da fonte do botão */
+    border: none; /* Remove a borda padrão do botão */
+    border-radius: 8px; /* Adiciona bordas arredondadas ao botão */
+    outline: none; /* Remove o contorno padrão do botão ao ser focado */
+    background: #CC2A41; /* Define a cor de fundo do botão */
+    color: #E8CAA4; /* Define a cor do texto*/
+    
+}
+
+.container .text button:hover{
+    background: #FDFEFE; /* Muda a cor de fundo do link ao passar o mouse sobre ele */
+}
